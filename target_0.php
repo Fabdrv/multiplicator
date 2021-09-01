@@ -2,17 +2,11 @@
 require "head.php"
 ?>
 
-<p>
-    <?php
-    $table = (int)$_POST['mulpar'];
-    echo 'Tu as demandé la table X ' . $table . '<br/>';
-    ?>
-</p>
-
 <!-- calcul d'une colonne -->
 <?php
 $length = 10;
 $i = 1;
+$table = 3;
 echo "Multiplication table: $table <br>"; ?>
 <div class="table_std">
 
@@ -23,4 +17,3 @@ echo "Multiplication table: $table <br>"; ?>
     ?>
 
 </div>
-<hr>

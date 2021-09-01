@@ -22,7 +22,7 @@ for ($i = 1; $i <= $r; $i++) {
 
 
 <hr>
-<!-- calcule d'un tableau autre méthode -->
+<!-- calcul d'un tableau autre méthode -->
 <?php
 echo "<table border =\"1\" style='border-collapse: collapse'>";
 for ($row = 1; $row <= 10; $row++) {

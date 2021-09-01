@@ -4,21 +4,19 @@ $nav = "super_revision";
 require 'head.php'; ?>
 
 <!-- fin du fichier head.php  -->
-<?php require 'header.php'; ?>
 <!-- fin du fichier header.php  -->
 
 <main>
-  <h1> <em> tempo 5eme instruction Mode super révision : Poser une série de 5 questions puis afficher le
+  <!-- <h1> <em> tempo 5eme instruction Mode super révision : Poser une série de 5 questions puis afficher le
       score.
     </em> </h1>
-  <hr>
-
+  <hr> -->
   <h2>Page super révision</h2>
   <p class="fs-5 col-md-8"> Prêts pour une super révision ? </p>
   <p class="fs-5 col-md-8"> le jeu va génerer 5 questions sur les tables de multiplication.
-     Tu saisi les réponses dans les cases associées aux questions </p>
-     <p> lorsque tu as saisi les 5 réponses tu valides les réponses avec le pavé "VALIDER"</p>
-     <p> Le jeu t'affichera ton score ainsi que les bonnes réponses.</p>
+    Tu saisi les réponses dans les cases associées aux questions </p>
+  <p> lorsque tu as saisi les 5 réponses tu valides les réponses avec le pavé "VALIDER"</p>
+  <p> Le jeu t'affichera ton score ainsi que les bonnes réponses.</p>
 
   <p class="fs-5 col-md-8"> c'est parti </p>
   <div class="mb-5">

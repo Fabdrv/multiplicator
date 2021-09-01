@@ -3,19 +3,18 @@ $title = "page revision";
 $nav = "revision";
 require 'head.php'; ?>
 <!-- fin du fichier head.php  -->
-<?php require 'header.php'; ?>
 
 <main>
-    <h1><em> tempo_4eme Instruction Intégrer un mode révision : l’utilisateur choisit une table de de
+    <!-- <h1><em> tempo_4eme Instruction Intégrer un mode révision : l’utilisateur choisit une table de de
             multiplication et doit répondre à une multiplication tirée au hasard dans
             la table sélectionnée.
         </em> </h1>
-    <hr>
+    <hr> -->
     <h2>Page révision des tables</h2>
 
     <div class="mb-5">
         <!-- saisie du prénom -->
-        <form method="POST" action="target_3.php">
+        <form method="POST" action="target_4.php">
             <p>
                 <label for="prenom"> Entrez votre prénom : </label>
                 <input class="form-control" type="text" name="prenom" id="prenom">
@@ -42,7 +41,6 @@ require 'head.php'; ?>
             </p>
             <div class="form-group">
                 <pre>
-                <input type="checkbox" name="validation" value="acknowledge"> Valider <br>
                 <button type="submit" class="btn btn-primary"> Lancer la table </button>
                 </pre>
             </div>

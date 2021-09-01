@@ -3,13 +3,12 @@ $title = "page revision";
 $nav = "revision";
 require 'head.php'; ?>
 <!-- fin du fichier head.php  -->
-<?php require 'header.php'; ?>
 
 <main>
-    <h1> <em> tempo 3 eme instruction 3. Le ou les choix des tables de multiplication se fait par checkbox et
+    <!-- <h1> <em> tempo 3 eme instruction 3. Le ou les choix des tables de multiplication se fait par checkbox et
             par un bouton “valider”. Le ou les tables de multiplication s’affichent en
             dessous.</em> </h1>
-    <hr>
+    <hr> -->
 
     <h2>Page présentation multi tables </h2>
 
